@@ -5,7 +5,7 @@
 
 ## 발표·성찰 자료
 
-- 발표자료(PDF): [docs/발표자료_전현후.pdf](docs/발표자료_전현후.pdf)
+- 발표자료(PDF): [docs/vibe-coding_20223851전현후_발표자료.pdf](docs/vibe-coding_20223851전현후_발표자료.pdf)
 - 성찰기: [REFLECTION.md](REFLECTION.md) · 프롬프트 원문: [PROMPTS.md](PROMPTS.md)
 
 ## 기능
