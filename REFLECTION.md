@@ -167,4 +167,4 @@
 
   ![사례 6 후: 보스 줄](docs/screenshots/case6-after-rows.png)
 - [ ] "전" 화면들(Phase 0 Artifact 버전, 사례 4 큐브가 금액 옆, 사례 5 숫자 배지, 사례 6 알록달록 칩)은 코드가 바뀌어 다시 찍을 수 없음 → 대화 기록 속 캡처나 설명으로 대신
-- [x] 프롬프트 원문 전체 (대화 내보내기에서 내가 보낸 메시지만 추출): [PROMPTS.md](PROMPTS.md)
+- [x] 웹앱을 만들 때 보낸 프롬프트 원문 전체 (Phase 0~2, 대화 내보내기에서 내가 보낸 메시지만 추출): [PROMPTS.md](PROMPTS.md)
