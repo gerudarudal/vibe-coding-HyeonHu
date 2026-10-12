@@ -3,6 +3,7 @@
 
 - 데모: https://gerudarudal.github.io/vibe-coding-HyeonHu/
 - 저장소: https://github.com/gerudarudal/vibe-coding-HyeonHu
+- 발표자료(PDF): [docs/발표자료_전현후.pdf](docs/발표자료_전현후.pdf)
 - 도구: Claude Code (데스크톱 앱 Code 탭) 
 
 ---
